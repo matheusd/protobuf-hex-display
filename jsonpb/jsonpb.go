@@ -40,7 +40,6 @@ package jsonpb
 
 import (
 	"bytes"
-	"encoding/json"
 	"errors"
 	"fmt"
 	"io"
@@ -54,6 +53,8 @@ import (
 	"github.com/lightninglabs/protobuf-hex-display/proto"
 
 	stpb "github.com/lightninglabs/protobuf-hex-display/ptypes/struct"
+
+	"github.com/lightninglabs/protobuf-hex-display/json"
 )
 
 const secondInNanos = int64(time.Second / time.Nanosecond)
