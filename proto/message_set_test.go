@@ -36,8 +36,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
-	. "github.com/lightninglabs/protobuf-hex-display/proto/test_proto"
+	"github.com/matheusd/protobuf-hex-display/proto"
+	. "github.com/matheusd/protobuf-hex-display/proto/test_proto"
 )
 
 func TestUnmarshalMessageSetWithDuplicate(t *testing.T) {

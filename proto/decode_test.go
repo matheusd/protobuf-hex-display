@@ -37,8 +37,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
-	tpb "github.com/lightninglabs/protobuf-hex-display/proto/proto3_proto"
+	"github.com/matheusd/protobuf-hex-display/proto"
+	tpb "github.com/matheusd/protobuf-hex-display/proto/proto3_proto"
 )
 
 var msgBlackhole = new(tpb.Message)

@@ -39,18 +39,18 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
+	"github.com/matheusd/protobuf-hex-display/proto"
 
-	pb "github.com/lightninglabs/protobuf-hex-display/jsonpb/jsonpb_test_proto"
-	proto3pb "github.com/lightninglabs/protobuf-hex-display/proto/proto3_proto"
-	"github.com/lightninglabs/protobuf-hex-display/ptypes"
-	anypb "github.com/lightninglabs/protobuf-hex-display/ptypes/any"
-	durpb "github.com/lightninglabs/protobuf-hex-display/ptypes/duration"
-	stpb "github.com/lightninglabs/protobuf-hex-display/ptypes/struct"
-	tspb "github.com/lightninglabs/protobuf-hex-display/ptypes/timestamp"
-	wpb "github.com/lightninglabs/protobuf-hex-display/ptypes/wrappers"
+	pb "github.com/matheusd/protobuf-hex-display/jsonpb/jsonpb_test_proto"
+	proto3pb "github.com/matheusd/protobuf-hex-display/proto/proto3_proto"
+	"github.com/matheusd/protobuf-hex-display/ptypes"
+	anypb "github.com/matheusd/protobuf-hex-display/ptypes/any"
+	durpb "github.com/matheusd/protobuf-hex-display/ptypes/duration"
+	stpb "github.com/matheusd/protobuf-hex-display/ptypes/struct"
+	tspb "github.com/matheusd/protobuf-hex-display/ptypes/timestamp"
+	wpb "github.com/matheusd/protobuf-hex-display/ptypes/wrappers"
 
-	"github.com/lightninglabs/protobuf-hex-display/json"
+	"github.com/matheusd/protobuf-hex-display/json"
 )
 
 var (

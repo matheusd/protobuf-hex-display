@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/descriptor"
-	tpb "github.com/lightninglabs/protobuf-hex-display/proto/test_proto"
-	protobuf "github.com/lightninglabs/protobuf-hex-display/protoc-gen-go/descriptor"
+	"github.com/matheusd/protobuf-hex-display/descriptor"
+	tpb "github.com/matheusd/protobuf-hex-display/proto/test_proto"
+	protobuf "github.com/matheusd/protobuf-hex-display/protoc-gen-go/descriptor"
 )
 
 func TestMessage(t *testing.T) {

@@ -45,11 +45,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lightninglabs/protobuf-hex-display/jsonpb"
-	. "github.com/lightninglabs/protobuf-hex-display/proto"
-	pb3 "github.com/lightninglabs/protobuf-hex-display/proto/proto3_proto"
-	. "github.com/lightninglabs/protobuf-hex-display/proto/test_proto"
-	descriptorpb "github.com/lightninglabs/protobuf-hex-display/protoc-gen-go/descriptor"
+	"github.com/matheusd/protobuf-hex-display/jsonpb"
+	. "github.com/matheusd/protobuf-hex-display/proto"
+	pb3 "github.com/matheusd/protobuf-hex-display/proto/proto3_proto"
+	. "github.com/matheusd/protobuf-hex-display/proto/test_proto"
+	descriptorpb "github.com/matheusd/protobuf-hex-display/protoc-gen-go/descriptor"
 )
 
 var globalO *Buffer

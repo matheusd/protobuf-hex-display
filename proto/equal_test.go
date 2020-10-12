@@ -34,9 +34,9 @@ package proto_test
 import (
 	"testing"
 
-	. "github.com/lightninglabs/protobuf-hex-display/proto"
-	proto3pb "github.com/lightninglabs/protobuf-hex-display/proto/proto3_proto"
-	pb "github.com/lightninglabs/protobuf-hex-display/proto/test_proto"
+	. "github.com/matheusd/protobuf-hex-display/proto"
+	proto3pb "github.com/matheusd/protobuf-hex-display/proto/proto3_proto"
+	pb "github.com/matheusd/protobuf-hex-display/proto/test_proto"
 )
 
 // Four identical base messages.

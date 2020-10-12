@@ -39,7 +39,7 @@ import (
 	"fmt"
 	"time"
 
-	durpb "github.com/lightninglabs/protobuf-hex-display/ptypes/duration"
+	durpb "github.com/matheusd/protobuf-hex-display/ptypes/duration"
 )
 
 const (

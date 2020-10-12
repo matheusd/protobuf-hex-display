@@ -5,9 +5,9 @@ package proto3_proto
 
 import (
 	fmt "fmt"
-	proto "github.com/lightninglabs/protobuf-hex-display/proto"
-	test_proto "github.com/lightninglabs/protobuf-hex-display/proto/test_proto"
-	any "github.com/lightninglabs/protobuf-hex-display/ptypes/any"
+	proto "github.com/matheusd/protobuf-hex-display/proto"
+	test_proto "github.com/matheusd/protobuf-hex-display/proto/test_proto"
+	any "github.com/matheusd/protobuf-hex-display/ptypes/any"
 	math "math"
 )
 

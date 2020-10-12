@@ -36,8 +36,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
-	tspb "github.com/lightninglabs/protobuf-hex-display/ptypes/timestamp"
+	"github.com/matheusd/protobuf-hex-display/proto"
+	tspb "github.com/matheusd/protobuf-hex-display/ptypes/timestamp"
 )
 
 var tests = []struct {

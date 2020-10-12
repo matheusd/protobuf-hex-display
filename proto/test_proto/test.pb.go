@@ -5,7 +5,7 @@ package test_proto
 
 import (
 	fmt "fmt"
-	proto "github.com/lightninglabs/protobuf-hex-display/proto"
+	proto "github.com/matheusd/protobuf-hex-display/proto"
 	math "math"
 )
 

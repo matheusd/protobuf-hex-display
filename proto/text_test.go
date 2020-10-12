@@ -40,11 +40,11 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
+	"github.com/matheusd/protobuf-hex-display/proto"
 
-	proto3pb "github.com/lightninglabs/protobuf-hex-display/proto/proto3_proto"
-	pb "github.com/lightninglabs/protobuf-hex-display/proto/test_proto"
-	anypb "github.com/lightninglabs/protobuf-hex-display/ptypes/any"
+	proto3pb "github.com/matheusd/protobuf-hex-display/proto/proto3_proto"
+	pb "github.com/matheusd/protobuf-hex-display/proto/test_proto"
+	anypb "github.com/matheusd/protobuf-hex-display/ptypes/any"
 )
 
 // textMessage implements the methods that allow it to marshal and unmarshal

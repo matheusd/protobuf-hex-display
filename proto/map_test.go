@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
-	ppb "github.com/lightninglabs/protobuf-hex-display/proto/proto3_proto"
+	"github.com/matheusd/protobuf-hex-display/proto"
+	ppb "github.com/matheusd/protobuf-hex-display/proto/proto3_proto"
 )
 
 func TestMap(t *testing.T) {

@@ -39,8 +39,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
-	"github.com/lightninglabs/protobuf-hex-display/ptypes/any"
+	"github.com/matheusd/protobuf-hex-display/proto"
+	"github.com/matheusd/protobuf-hex-display/ptypes/any"
 )
 
 const googleApis = "type.googleapis.com/"

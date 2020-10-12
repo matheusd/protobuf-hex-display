@@ -34,9 +34,9 @@ package ptypes
 import (
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
-	pb "github.com/lightninglabs/protobuf-hex-display/protoc-gen-go/descriptor"
-	"github.com/lightninglabs/protobuf-hex-display/ptypes/any"
+	"github.com/matheusd/protobuf-hex-display/proto"
+	pb "github.com/matheusd/protobuf-hex-display/protoc-gen-go/descriptor"
+	"github.com/matheusd/protobuf-hex-display/ptypes/any"
 )
 
 func TestMarshalUnmarshal(t *testing.T) {

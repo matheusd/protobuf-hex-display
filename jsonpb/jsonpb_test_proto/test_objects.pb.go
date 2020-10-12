@@ -5,12 +5,12 @@ package jsonpb
 
 import (
 	fmt "fmt"
-	proto "github.com/lightninglabs/protobuf-hex-display/proto"
-	any "github.com/lightninglabs/protobuf-hex-display/ptypes/any"
-	duration "github.com/lightninglabs/protobuf-hex-display/ptypes/duration"
-	_struct "github.com/lightninglabs/protobuf-hex-display/ptypes/struct"
-	timestamp "github.com/lightninglabs/protobuf-hex-display/ptypes/timestamp"
-	wrappers "github.com/lightninglabs/protobuf-hex-display/ptypes/wrappers"
+	proto "github.com/matheusd/protobuf-hex-display/proto"
+	any "github.com/matheusd/protobuf-hex-display/ptypes/any"
+	duration "github.com/matheusd/protobuf-hex-display/ptypes/duration"
+	_struct "github.com/matheusd/protobuf-hex-display/ptypes/struct"
+	timestamp "github.com/matheusd/protobuf-hex-display/ptypes/timestamp"
+	wrappers "github.com/matheusd/protobuf-hex-display/ptypes/wrappers"
 	math "math"
 )
 

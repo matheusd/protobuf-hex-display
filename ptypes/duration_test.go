@@ -36,8 +36,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
-	durpb "github.com/lightninglabs/protobuf-hex-display/ptypes/duration"
+	"github.com/matheusd/protobuf-hex-display/proto"
+	durpb "github.com/matheusd/protobuf-hex-display/ptypes/duration"
 )
 
 const (

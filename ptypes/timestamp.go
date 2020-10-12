@@ -38,7 +38,7 @@ import (
 	"fmt"
 	"time"
 
-	tspb "github.com/lightninglabs/protobuf-hex-display/ptypes/timestamp"
+	tspb "github.com/matheusd/protobuf-hex-display/ptypes/timestamp"
 )
 
 const (

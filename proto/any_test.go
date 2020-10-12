@@ -35,11 +35,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
+	"github.com/matheusd/protobuf-hex-display/proto"
 
-	pb "github.com/lightninglabs/protobuf-hex-display/proto/proto3_proto"
-	testpb "github.com/lightninglabs/protobuf-hex-display/proto/test_proto"
-	anypb "github.com/lightninglabs/protobuf-hex-display/ptypes/any"
+	pb "github.com/matheusd/protobuf-hex-display/proto/proto3_proto"
+	testpb "github.com/matheusd/protobuf-hex-display/proto/test_proto"
+	anypb "github.com/matheusd/protobuf-hex-display/ptypes/any"
 )
 
 var (

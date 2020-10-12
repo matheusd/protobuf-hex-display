@@ -50,11 +50,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lightninglabs/protobuf-hex-display/proto"
+	"github.com/matheusd/protobuf-hex-display/proto"
 
-	stpb "github.com/lightninglabs/protobuf-hex-display/ptypes/struct"
+	stpb "github.com/matheusd/protobuf-hex-display/ptypes/struct"
 
-	"github.com/lightninglabs/protobuf-hex-display/json"
+	"github.com/matheusd/protobuf-hex-display/json"
 )
 
 const secondInNanos = int64(time.Second / time.Nanosecond)
